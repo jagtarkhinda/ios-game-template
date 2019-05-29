@@ -15,6 +15,11 @@ class GameScene: SKScene {
     private var spinnyNode : SKShapeNode?
     
     override func didMove(to view: SKView) {
+       
+            //GameEngine Constructor from Android
+            
+            //Setup initial positions
+        }
         
       
     }
